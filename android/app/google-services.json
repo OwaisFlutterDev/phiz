@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52391192281",
+    "project_id": "phiz-3567c",
+    "storage_bucket": "phiz-3567c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52391192281:android:fac43b8902220747f100c8",
+        "android_client_info": {
+          "package_name": "com.example.phiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52391192281-6ngslkdab6r8l8qmgt6ilc0db229jstp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs4IfU4U0PNRJvNEYdcEnEKEsRr4XaMXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52391192281-6ngslkdab6r8l8qmgt6ilc0db229jstp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
